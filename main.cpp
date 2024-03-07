@@ -1,8 +1,6 @@
 #include <iostream>
 
 int main() {
-    for (int i = 0; i <= 10; ++i) {
-        std::cout << i << std::endl;
-    }
+    std::cout << "Hello world! This is PES2UG21CS429!" << std::endl;
     return 0;
 }
